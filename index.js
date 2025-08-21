@@ -1,4 +1,9 @@
+let name;
 function gitHub(){
-    let name = "newdemo"
-    let age = 10
+    if(name === "github"){
+        console.log("Name is True")
+    }
+    
 }
+name = "github"
+gitHub(name)
