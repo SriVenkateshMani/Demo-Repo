@@ -7,3 +7,7 @@ function gitHub(){
 }
 name = "github"
 gitHub(name)
+
+function workFLow(){
+    console.log("Do Something")
+}
